@@ -6,7 +6,7 @@ You can find me on Gitlab [here](https://gitlab.com/Navigator365).
 
 <h3 align="left">But where else am I?:</h3>
 <a href="https://www.youtube.com/channel/UCcwqFGL8OiEFYXd3OMQS4cA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codenatix" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/AjaccioToArcole" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="aadit.ambadkar" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/AjaccioToArcole" target="blank"><img align="center" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38780/preview.svg" alt="Navigator365" height="30" width="30" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Navigator365&show_icons=true&locale=en" alt="ben-dodge" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Navigator365&show_icons=true&locale=en&theme=nord" alt="ben-dodge" /></p>
 
